@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"/>
+    <title>Hyperfy Roulette</title>
+    <meta name="title" content="Hyperfy Roulette"/>
+    <meta name="description" content="Explore a random world instantly."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://hyperfy.io/"/>
+    <meta property="og:title" content="Hyperfy Roulette"/>
+    <meta property="og:description" content="Explore a random world instantly."/>
+    <meta property="og:image" content="/roulette.jpg"/>
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:url" content="https://hyperfy.io/"/>
+    <meta property="twitter:title" content="Hyperfy Roulette"/>
+    <meta property="twitter:description" content="Explore a random world instantly."/>
+    <meta property="twitter:image" content="https://hyperfy.io/logo-opengraph.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="https://hyperfy.io/apple-touch-icon.png"/>
+    <link rel="manifest" href="https://hyperfy.io/manifest.json"/>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: "Your Custom Font", Arial, sans-serif;
+            margin: 30px;
+        }
+
+        h1 {
+            color: red;
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        // Function to redirect to a random URL from the provided list
+        function redirectToRandomLink(links) {
+            if (links.length === 0) {
+                alert("No links available.");
+                return;
+            }
+
+            const randomIndex = Math.floor(Math.random() * links.length);
+            const randomLink = links[randomIndex];
+            window.location.href = randomLink;
+        }
+
+        // Fetch the JSON data from the API
+        fetch('https://api.hyperfy.io/worlds?embodied=true')
+            .then(response => response.json())
+            .then(data => {
+                const slugs = data.map(item => "https://hyperfy.io/" + item.slug);
+                redirectToRandomLink(slugs);
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    </script>
+</body>
+</html>
