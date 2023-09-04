@@ -13,7 +13,7 @@
             "state": {
               "type": "html-view",
               "state": {
-                "file": "about/index.html"
+                "file": "index.html"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/index.html",
+                "file": "index.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/index.html",
+                "file": "index.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/index.html"
+                "file": "index.html"
               }
             }
           },
@@ -180,7 +180,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,15 +199,15 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "aa770a874967e84d",
+  "active": "70c21f2a323cb0ae",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "index.html",
     "Unconfirmed 56664.crdownload",
     "index/index.md",
     "about/index.html",
     "404.html",
     "jekyll/jekyll.md",
-    "Untitled.canvas",
     "Untitled.md",
     "index",
     "Context/spacesLastSync.log",

@@ -46,7 +46,6 @@
     "/",
     null,
     "HowieDuhzit.github.io",
-    "Web",
     null
   ],
   "expandFolderOnClick": true,
@@ -78,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693826590836,
+  "spacesAutoBackupLast": 1693826755483,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
