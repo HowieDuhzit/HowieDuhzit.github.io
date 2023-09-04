@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8af51c9f6e3bc435",
+        "id": "fa6597385e9aad30",
         "type": "tabs",
         "children": [
           {
-            "id": "70c21f2a323cb0ae",
+            "id": "e9b52ea06f34391a",
             "type": "leaf",
             "state": {
-              "type": "html-view",
-              "state": {
-                "file": "index.html"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 251.5
   },
   "right": {
     "id": "217a89429d050be6",
@@ -194,7 +192,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "03e59a80a4b7124e",
+  "active": "aa770a874967e84d",
   "lastOpenFiles": [
     "index.html",
     "Untitled.canvas",
