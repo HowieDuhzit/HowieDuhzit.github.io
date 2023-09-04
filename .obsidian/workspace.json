@@ -8,20 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "418e2dd976f6aee8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d13576b4734c12b1",
+            "id": "70c21f2a323cb0ae",
             "type": "leaf",
             "state": {
               "type": "html-view",
               "state": {
                 "file": "index.html"
+              }
+            }
+          },
+          {
+            "id": "e374293429b7f1d1",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chat.openai.com/"
               }
             }
           }
@@ -100,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.html"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +184,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "97583e196ada1e5f",
+  "active": "e374293429b7f1d1",
   "lastOpenFiles": [
+    "index.html",
     "Blender Notes.md",
     "Blender Notes/Dynamic Object Standard.md",
     "Blender Notes",
