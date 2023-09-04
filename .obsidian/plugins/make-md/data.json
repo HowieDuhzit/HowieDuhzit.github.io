@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -37,18 +37,23 @@
   "expandedFolders": {
     "HowieDuhzit.github.io": [
       "index"
+    ],
+    "Web": [
+      "jekyll"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "HowieDuhzit.github.io"
+    "HowieDuhzit.github.io",
+    null,
+    "Web"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "HowieDuhzit.github.io"
+    "Web"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -73,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693823584524,
+  "spacesAutoBackupLast": 1693824028049,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
