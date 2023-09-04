@@ -91,7 +91,21 @@
               "type": "mk-file-view",
               "state": {}
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5
+  },
+  "right": {
+    "id": "217a89429d050be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a85010130fa1853",
+        "type": "tabs",
+        "children": [
           {
             "id": "03e59a80a4b7124e",
             "type": "leaf",
@@ -103,22 +117,7 @@
               },
               "pinned": true
             }
-          }
-        ],
-        "currentTab": 5
-      }
-    ],
-    "direction": "horizontal",
-    "width": 968.5
-  },
-  "right": {
-    "id": "217a89429d050be6",
-    "type": "split",
-    "children": [
-      {
-        "id": "9a85010130fa1853",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "f3cc69acc9d258ec",
             "type": "leaf",
@@ -189,12 +188,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
