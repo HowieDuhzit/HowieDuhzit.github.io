@@ -35,12 +35,20 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chat.openai.com/"
+                "url": "https://presearch.com/search?q=SEARCH"
               }
+            }
+          },
+          {
+            "id": "4ec8658466379674",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +212,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c3f86d10b2617600",
+  "active": "4ec8658466379674",
   "lastOpenFiles": [
     "index/index.md",
     "about/index.html",

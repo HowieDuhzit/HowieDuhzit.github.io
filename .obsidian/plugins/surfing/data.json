@@ -1,31 +1,31 @@
 {
-  "defaultSearchEngine": "duckduckgo",
+  "defaultSearchEngine": "presearch",
   "customSearchEngine": [
     {
-      "name": "duckduckgo",
-      "url": "https://duckduckgo.com/?q="
+      "name": "Presearch",
+      "url": "https://presearch.com/search?q="
     }
   ],
   "ignoreList": [
     "notion",
     "craft"
   ],
-  "alwaysShowCustomSearch": false,
+  "alwaysShowCustomSearch": true,
   "showOtherSearchEngines": false,
-  "showSearchBarInPage": false,
+  "showSearchBarInPage": true,
   "markdownPath": "/",
   "customHighlightFormat": false,
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
-  "openInSameTab": false,
-  "showRefreshButton": false,
+  "openInSameTab": true,
+  "showRefreshButton": true,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
   "useIconList": true,
-  "darkMode": false,
+  "darkMode": true,
   "bookmarkManager": {
-    "openBookMark": false,
+    "openBookMark": true,
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
@@ -48,7 +48,18 @@
       "id": "c3f86d10b2617600",
       "parent": 0,
       "droppable": true,
-      "text": "ChatGPT",
+      "text": "SEARCH - Presearch",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "7859a94248050c79",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
