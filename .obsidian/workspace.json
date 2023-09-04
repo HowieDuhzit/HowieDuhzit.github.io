@@ -13,7 +13,7 @@
             "state": {
               "type": "html-view",
               "state": {
-                "file": "index/index.md"
+                "file": "about/index.html"
               }
             }
           },
@@ -21,14 +21,26 @@
             "id": "31231c552dde1745",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "index"
+                "file": "index/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3f86d10b2617600",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chat.openai.com/"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,12 +204,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "31231c552dde1745",
+  "active": "c3f86d10b2617600",
   "lastOpenFiles": [
+    "index/index.md",
+    "about/index.html",
+    "404.html",
     "jekyll/jekyll.md",
     "Untitled.canvas",
     "Untitled.md",
-    "index/index.md",
     "index",
     "Context/spacesLastSync.log",
     "Context",
@@ -230,7 +243,6 @@
     "Howies Vault/TO-DO/Plan Meeting with Modz.md",
     "Howies Vault/TO-DO/Team Call at 1.md",
     "Howies Vault/TO-DO/Work on M3 Hydroponic bounty.md",
-    "Howies Vault/TO-DO/Plan Meeting with Voltz.md",
-    "Twits.md"
+    "Howies Vault/TO-DO/Plan Meeting with Voltz.md"
   ]
 }
