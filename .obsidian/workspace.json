@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c5caeeb8fc3e20aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8af51c9f6e3bc435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418e2dd976f6aee8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d13576b4734c12b1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d11a1d771c0a2188",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25c3df8caf85390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97583e196ada1e5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5efcd9dad109b930",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5a541107ec7ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "217a89429d050be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a85010130fa1853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3cc69acc9d258ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf7e1592a6bc64ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28ca7e261b9d0a72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f11638f937f2298",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bd10bb468f0d006",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "029de4c923f95979",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d28da61f0b43eb7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 580.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "d13576b4734c12b1",
+  "lastOpenFiles": [
+    "Blender Notes.md",
+    "Blender Notes/Dynamic Object Standard.md",
+    "Blender Notes",
+    "README.md",
+    "NGINX Setup.md",
+    "Hyperfy API info.md",
+    "Howies Vault/TO-DO/Pasted image 20230623134747.png",
+    "Howies Vault/TO-DO/!Shit to do.md",
+    "Howies Vault/PC CLEAN.md",
+    "AI Prompts.md",
+    "Tags for youtube.md",
+    "Untitled.md",
+    "Lights Video.md",
+    "2023-07-29.md",
+    "Howies Vault/README.md",
+    "Chiliz.md",
+    "Howies Vault/FiveM Work/POV BILLBOARDS/Pasted image 20230506115834.png",
+    "Volts/Voltz.md",
+    "Volts/OG Palette.md",
+    "Volts/Color notes.md",
+    "Howies Vault/FiveM Work/FiveM.md",
+    "Blender Toon and Pixel Style.md",
+    "Pasted image 20230719170723.png",
+    "Pasted image 20230719170731.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Volts",
+    "Howies Vault/TO-DO/Plan Meeting with Modz.md",
+    "Howies Vault/TO-DO/Team Call at 1.md",
+    "Howies Vault/TO-DO/Work on M3 Hydroponic bounty.md",
+    "Howies Vault/TO-DO/Plan Meeting with Voltz.md",
+    "Twits.md",
+    "Howies Vault/TO-DO/DO THIS SHIT.md"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "apiKey": "Fv5d9n0wZeOXpbmMBYGd2RZAy",
+  "apiSecret": "LsHndrDQomuUCMuFR8TkLwkZk5hYsxoWM6jYaEPbNEYSNzO7ba",
+  "accessToken": "1500191082243571713-r2qDOlolmkpn3GvKfSW0fABXBYwqSb",
+  "accessTokenSecret": "PfL4jfYjGP6Zjia0wRp7kH5HWkrTtAQ7SJ1FG0jK2qvgE",
+  "postTweetTag": "Tweeted",
+  "secureMode": false,
+  "scheduling": {
+    "enabled": false,
+    "url": "",
+    "password": "",
+    "cronStrings": []
+  }
+}
