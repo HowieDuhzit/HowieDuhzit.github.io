@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.html"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,10 +194,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "70c21f2a323cb0ae",
+  "active": "03e59a80a4b7124e",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "index.html",
+    "Untitled.canvas",
     "Unconfirmed 56664.crdownload",
     "index/index.md",
     "about/index.html",
