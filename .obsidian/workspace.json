@@ -13,17 +13,17 @@
             "state": {
               "type": "html-view",
               "state": {
-                "file": "index.html"
+                "file": "index/index.md"
               }
             }
           },
           {
-            "id": "e374293429b7f1d1",
+            "id": "31231c552dde1745",
             "type": "leaf",
             "state": {
-              "type": "html-view",
+              "type": "make-folder-view",
               "state": {
-                "file": "index.html"
+                "contextPath": "index"
               }
             }
           }
@@ -81,8 +81,17 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "aa770a874967e84d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -102,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.html"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +193,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "97583e196ada1e5f",
+  "active": "31231c552dde1745",
   "lastOpenFiles": [
-    "index.html",
+    "index/index.md",
+    "index",
+    "Context/spacesLastSync.log",
+    "Context",
     "Blender Notes.md",
     "Blender Notes/Dynamic Object Standard.md",
     "Blender Notes",

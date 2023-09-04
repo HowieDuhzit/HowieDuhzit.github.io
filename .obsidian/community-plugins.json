@@ -6,5 +6,7 @@
   "code-emitter",
   "obsidian-git",
   "obsidian-html-plugin",
-  "surfing"
+  "surfing",
+  "cmdr",
+  "make-md"
 ]
