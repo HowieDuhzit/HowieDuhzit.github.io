@@ -54,6 +54,28 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "c9f509c01ef2620c",
+      "parent": 0,
+      "droppable": true,
+      "text": "Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "5dee64b9d3881d85",
+      "parent": 0,
+      "droppable": true,
+      "text": "Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }

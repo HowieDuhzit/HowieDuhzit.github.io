@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9b52ea06f34391a",
+            "id": "c9f509c01ef2620c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///F:\\GIT\\HowieDuhzit.github.io/index.html"
+              }
             }
           }
         ]
@@ -77,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "aa770a874967e84d",
+  "active": "97583e196ada1e5f",
   "lastOpenFiles": [
     "index.html",
     "Untitled.canvas",
