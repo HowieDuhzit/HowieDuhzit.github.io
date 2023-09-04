@@ -28,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "03e59a80a4b7124e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chrome.google.com/webstore/detail/frame/ldcoohedfbjoobcadoglnnmmfbdlmmhf"
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,12 +91,25 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "03e59a80a4b7124e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chat.openai.com/"
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 417.5
   },
   "right": {
     "id": "217a89429d050be6",
