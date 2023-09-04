@@ -16,21 +16,8 @@
                 "file": "about/index.html"
               }
             }
-          },
-          {
-            "id": "31231c552dde1745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +198,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "03e59a80a4b7124e",
+  "active": "aa770a874967e84d",
   "lastOpenFiles": [
+    "index.html",
+    "Unconfirmed 56664.crdownload",
     "index/index.md",
     "about/index.html",
     "404.html",
