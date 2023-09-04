@@ -99,7 +99,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://chat.openai.com/"
+                "url": "https://chat.openai.com/?model=text-davinci-002-render-sha"
               },
               "pinned": true
             }
@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 968.5
   },
   "right": {
     "id": "217a89429d050be6",
