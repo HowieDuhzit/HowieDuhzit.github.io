@@ -1,5 +1,5 @@
 {
-  "defaultSearchEngine": "presearch",
+  "defaultSearchEngine": "Presearch",
   "customSearchEngine": [
     {
       "name": "Presearch",
@@ -45,21 +45,10 @@
   },
   "treeData": [
     {
-      "id": "c3f86d10b2617600",
+      "id": "03e59a80a4b7124e",
       "parent": 0,
       "droppable": true,
-      "text": "SEARCH - Presearch",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "7859a94248050c79",
-      "parent": 0,
-      "droppable": true,
-      "text": "New Tab",
+      "text": "Frame Companion - Chrome Web Store",
       "data": {
         "fileType": "site",
         "fileSize": "",

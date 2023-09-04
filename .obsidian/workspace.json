@@ -30,25 +30,19 @@
             }
           },
           {
-            "id": "c3f86d10b2617600",
+            "id": "03e59a80a4b7124e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://presearch.com/search?q=SEARCH"
-              }
-            }
-          },
-          {
-            "id": "4ec8658466379674",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+                "url": "https://chrome.google.com/webstore/detail/frame/ldcoohedfbjoobcadoglnnmmfbdlmmhf"
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +206,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4ec8658466379674",
+  "active": "03e59a80a4b7124e",
   "lastOpenFiles": [
     "index/index.md",
     "about/index.html",
