@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2fe1f020a9fe27",
+        "id": "208c61e694565d77",
         "type": "tabs",
         "children": [
           {
-            "id": "24fdd40c9d5dac92",
+            "id": "090636b99e9a420c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "24fdd40c9d5dac92",
+  "active": "090636b99e9a420c",
   "lastOpenFiles": [
     "index.html",
     "Untitled.canvas",
