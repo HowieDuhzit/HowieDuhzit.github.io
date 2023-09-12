@@ -76,6 +76,39 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "d08c687763d83c3f",
+      "parent": 0,
+      "droppable": true,
+      "text": "Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "e6681e6cc5a078ff",
+      "parent": 0,
+      "droppable": true,
+      "text": "Howie Duhzit Best",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "d2d4143af4c4783b",
+      "parent": 0,
+      "droppable": true,
+      "text": "Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
