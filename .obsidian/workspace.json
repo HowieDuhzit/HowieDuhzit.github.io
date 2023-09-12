@@ -16,8 +16,19 @@
                 "url": "file:///H:\\GIT\\HowieDuhzit.github.io/indexOG.html"
               }
             }
+          },
+          {
+            "id": "b7465073b6ace394",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "file:///H:\\GIT\\HowieDuhzit.github.io/indexOG.html"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +205,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "d2d4143af4c4783b",
+  "active": "b7465073b6ace394",
   "lastOpenFiles": [
     "index.html",
     "Untitled.canvas",

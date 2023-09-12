@@ -109,6 +109,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "b7465073b6ace394",
+      "parent": 0,
+      "droppable": true,
+      "text": "Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
