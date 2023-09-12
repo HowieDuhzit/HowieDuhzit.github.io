@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa6597385e9aad30",
+        "id": "2c2fe1f020a9fe27",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d4143af4c4783b",
+            "id": "24fdd40c9d5dac92",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///H:\\GIT\\HowieDuhzit.github.io/indexOG.html"
-              }
-            }
-          },
-          {
-            "id": "b7465073b6ace394",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///H:\\GIT\\HowieDuhzit.github.io/indexOG.html"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,23 +62,23 @@
             }
           },
           {
-            "id": "40c34aae094bedc4",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "aa770a874967e84d",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "488ea6cb3d7326ca",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,18 +92,6 @@
         "id": "9a85010130fa1853",
         "type": "tabs",
         "children": [
-          {
-            "id": "03e59a80a4b7124e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://chat.openai.com/?model=text-davinci-002-render-sha"
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "f3cc69acc9d258ec",
             "type": "leaf",
@@ -201,11 +176,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "surfing:surfing-bookmark-manager": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b7465073b6ace394",
+  "active": "24fdd40c9d5dac92",
   "lastOpenFiles": [
     "index.html",
     "Untitled.canvas",

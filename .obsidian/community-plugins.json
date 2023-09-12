@@ -5,12 +5,12 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "code-emitter",
   "obsidian-git",
-  "surfing",
   "cmdr",
   "make-md",
   "codestats",
   "obsidian-codemirror-options",
   "execute-code",
   "obsidian-version-history-diff",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "surfing"
 ]
