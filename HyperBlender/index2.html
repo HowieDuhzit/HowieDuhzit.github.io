@@ -195,6 +195,7 @@
             .then(response => response.json())
             .then(data => {
                 const uniqueNames = findUniqueNames(data);
+                const uniqueAddys = findUniqueAddys(data);
                 displayUniqueAddys(uniqueAddys);
             })
             .catch(error => {
