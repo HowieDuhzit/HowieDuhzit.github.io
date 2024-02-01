@@ -119,28 +119,11 @@
 
             names.forEach(name => {
                 const row = document.createElement("tr");
-                const cellBefore = document.createElement("td");
                 const cellName = document.createElement("td");
-                const cellAfter = document.createElement("td");
-
-                // Add image before the name
-                const imgBefore = document.createElement("img");
-                imgBefore.src = "Name_Begin.png";
-                cellBefore.appendChild(imgBefore);
 
                 cellName.textContent = name;
 
-                const imgAfter = document.createElement("img");
-                imgAfter.src = "Name_End.png";
-                cellName.appendChild(imgAfter);
-
-                const imgAfter2 = document.createElement("img");
-                imgAfter2.src = "Name_Hide.png";
-                cellAfter.appendChild(imgAfter2);
-
-                row.appendChild(cellBefore);
                 row.appendChild(cellName);
-                row.appendChild(cellAfter);
                 tableBody.appendChild(row);
             });
         }
