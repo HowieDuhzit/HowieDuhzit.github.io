@@ -112,7 +112,21 @@
     
             return uniqueNames;
         }
+        
+        function findUniqueAddys(data) {
+            const uniqueAddys = [];
+            const addSet = new Set();
     
+            data.forEach(item => {
+                const add = item.address;
+                if (!addSet.has(address)) {
+                    addSet.add(address);
+                    uniqueAddress.push(address);
+                }
+            });
+    
+            return uniqueAddress;
+        }
           // Function to display unique names in a table on the page
         function displayUniqueNames(names) {
             const tableBody = document.querySelector("#uniqueNamesTable tbody");
