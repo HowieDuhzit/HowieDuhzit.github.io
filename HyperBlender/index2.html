@@ -3,7 +3,7 @@
 <head>
     <title>Outliner</title>
     <style>
-        
+
         html, body {
             height: 100%;
             margin: 0;
@@ -14,7 +14,7 @@
             color: #c2c2c2; /* Font color */
             font-family: Vera.tff;
         }
-      
+
         table {
             border-collapse: collapse;
             background-color: #282828; /* Header background color */
@@ -29,7 +29,7 @@
             height: 50%;
             border: none;
         }
-        
+
         th {
             background-color: #282828; /* Header background color */
         }
@@ -41,12 +41,12 @@
         tr:nth-child(odd) {
             background-color: #282828; /* Odd row background color */
         }
-        
+
         tbody {
             max-height: 300px; /* Adjust the height as needed */
             overflow: auto;
         }
-        
+
 
         /* Header Images */
         .header-image {
@@ -101,36 +101,22 @@
         function findUniqueNames(data) {
             const uniqueNames = [];
             const nameSet = new Set();
-    
+
             data.forEach(item => {
-                const name = item.name;
+                const name = item.address;
                 if (!nameSet.has(name)) {
                     nameSet.add(name);
                     uniqueNames.push(name);
                 }
             });
-    
+
             return uniqueNames;
         }
-        
-        function findUniqueAddys(data) {
-            const uniqueAddys = [];
-            const addSet = new Set();
-    
-            data.forEach(item => {
-                const add = item.address;
-                if (!addSet.has(add)) {
-                    addSet.add(add);
-                    uniqueAddress.push(add);
-                }
-            });
-    
-            return uniqueAddress;
-        }
+
           // Function to display unique names in a table on the page
         function displayUniqueNames(names) {
             const tableBody = document.querySelector("#uniqueNamesTable tbody");
-    
+
             names.forEach(name => {
                 const row = document.createElement("tr");
                 const cellBefore = document.createElement("td");
@@ -147,37 +133,6 @@
                 const imgAfter = document.createElement("img");
                 imgAfter.src = "Name_End.png";
                 cellName.appendChild(imgAfter);
-                
-                const imgAfter2 = document.createElement("img");
-                imgAfter2.src = "Name_Hide.png";
-                cellAfter.appendChild(imgAfter2);
-                
-                row.appendChild(cellBefore);
-                row.appendChild(cellName);
-                row.appendChild(cellAfter);
-                tableBody.appendChild(row);
-            });
-        }
-
-        function displayUniqueNames(addys) {
-            const tableBody = document.querySelector("#uniqueNamesTable tbody");
-
-            addys.forEach(addy => {
-                const row = document.createElement("tr");
-                const cellBefore = document.createElement("td");
-                const cellName = document.createElement("td");
-                const cellAfter = document.createElement("td");
-
-                // Add image before the name
-                const imgBefore = document.createElement("img");
-                imgBefore.src = "Name_Begin.png";
-                cellBefore.appendChild(imgBefore);
-
-                cellName.textContent = addy;
-
-                const imgAfter = document.createElement("img");
-                imgAfter.src = "Name_End.png";
-                cellName.appendChild(imgAfter);
 
                 const imgAfter2 = document.createElement("img");
                 imgAfter2.src = "Name_Hide.png";
@@ -189,14 +144,13 @@
                 tableBody.appendChild(row);
             });
         }
-    
+
           // Fetch the JSON data from the API
         fetch('https://api.hyperfy.io/guestbook/visitorbook/list')
             .then(response => response.json())
             .then(data => {
                 const uniqueNames = findUniqueNames(data);
-                const uniqueAddys = findUniqueAddys(data);
-                displayUniqueAddys(uniqueAddys);
+                displayUniqueNames(uniqueNames);
             })
             .catch(error => {
                 console.error('Error fetching data:', error);
