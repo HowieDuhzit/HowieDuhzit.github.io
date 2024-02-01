@@ -103,7 +103,7 @@
             const nameSet = new Set();
 
             data.forEach(item => {
-                const name = item.address;
+                const name = item.name + " " + item.address;
                 if (!nameSet.has(name)) {
                     nameSet.add(name);
                     uniqueNames.push(name);
