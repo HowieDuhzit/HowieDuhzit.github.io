@@ -119,9 +119,9 @@
     
             data.forEach(item => {
                 const add = item.address;
-                if (!addSet.has(address)) {
-                    addSet.add(address);
-                    uniqueAddress.push(address);
+                if (!addSet.has(add)) {
+                    addSet.add(add);
+                    uniqueAddress.push(add);
                 }
             });
     
